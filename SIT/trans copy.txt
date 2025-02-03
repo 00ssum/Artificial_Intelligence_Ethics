@@ -1,0 +1,40 @@
+Model | Accuracy
+------------------------------
+resnet18 | 99.30%
+resnet101 | 48.70%
+resnext50 | 54.10%
+densenet121 | 85.30%
+mobilenet | 78.00%
+vit | 29.60%
+swin | 52.00%
+inceptionv3 | 61.90%
+Model | Accuracy
+------------------------------
+resnet18 | 100.00%
+resnet101 | 68.70%
+resnext50 | 75.60%
+densenet121 | 95.70%
+mobilenet | 91.80%
+vit | 38.70%
+swin | 65.80%
+inceptionv3 | 77.20%
+Model | Accuracy
+------------------------------
+resnet18 | 100.00%
+resnet101 | 68.20%
+resnext50 | 75.40%
+densenet121 | 96.40%
+mobilenet | 93.20%
+vit | 38.80%
+swin | 66.40%
+inceptionv3 | 76.10%
+Model | Accuracy
+------------------------------
+resnet18 | 100.00%
+resnet101 | 65.90%
+resnext50 | 73.40%
+densenet121 | 95.70%
+mobilenet | 92.90%
+vit | 37.30%
+swin | 64.50%
+inceptionv3 | 74.40%
